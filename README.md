@@ -1,5 +1,6 @@
 # day3-Employee-Wage
 ## Use Case
-    5. Calculating wages for a month
-        Assume 20 working days per month
+    6. Calculating wages till a condition  of total working hours or days is reached for a month.
+        Assume 100 hours and 20 days.
+        
     
